@@ -24,6 +24,7 @@ and Industry vertical.
 
 ● How much funding does startups generally get in India ? (maximum 
 funding, minimum funding , average funding and number of fundings)
+
 ● Which industries are favored by investors for funding ? (OR) Which type 
 of companies get more easily funded ?
 
